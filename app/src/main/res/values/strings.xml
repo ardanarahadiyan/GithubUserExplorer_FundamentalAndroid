@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github Users Explorer</string>
+    <string name="username">Username</string>
+    <string name="display_name">Display Name</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Follower</string>
+    <string name="home_menu">Home Menu</string>
+    <string name="initial_bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="Repos">Repos</string>
+    <string name="initial_total_user">Total user yang ditemukan : 0</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="email">Email</string>
+    <string name="blog_url">Blog Url</string>
+    <string name="initial_url">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="setting">Theme Setting</string>
+    <string name="favorite_users">Favorite Users</string>
+    <string name="dark_mode">Dark Mode   </string>
+    <string name="share">Share</string>
+</resources>
